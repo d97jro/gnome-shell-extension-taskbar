@@ -27,7 +27,8 @@
     "3.31",
     "3.32",
     "3.33",
-    "3.34"
+    "3.34",
+    "3.36"
   ], 
   "url": "https://github.com/zpydr/gnome-shell-extension-taskbar", 
   "uuid": "TaskBar@zpydr", 
